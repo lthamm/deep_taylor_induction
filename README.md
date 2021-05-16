@@ -180,3 +180,20 @@ Fix: Deactivate MKL for conda.
 `conda install nomkl`
 * https://docs.anaconda.com/mkl-optimizations/
 * https://stackoverflow.com/a/58869103/8766814
+
+
+## Sources
+
+### Original authors
+* Rabold, J., Deininger, H., Siebers, M., Schmid, U., 2019. Enriching Visual with Verbal Ex- planations for Relational Concepts -- Combining LIME with Aleph. ArXiv191001837 Cs Stat.
+* Rabold, J., Schwalbe, G., Schmid, U., 2020. Expressive Explanations of DNNs by Com- bining Concept Analysis with ILP, in: Schmid, U., Klügl, F., Wolter, D. (Eds.), KI 2020: Advances in Artificial Intelligence, Lecture Notes in Computer Science. Springer Interna- tional Publishing, Cham, pp. 148–162. https://doi.org/10.1007/978-3-030-58285-2_11
+
+### Heatmapping
+* Alber, M., Lapuschkin, S., Seegerer, P., Hägele, M., Schütt, K. T., Montavon, G., Samek, W., Müller, K. R., Dähne, S., & Kindermans, P. J. (2019). INNvestigate neural networks! Journal of Machine Learning Research, 20.](https://jmlr.org/papers/v20/18-540.html)
+
+### Transfer learning
+* https://keras.io/guides/transfer_learning/
+* https://keras.io/api/applications/
+
+
+For the full list of references, see the thesis. 
