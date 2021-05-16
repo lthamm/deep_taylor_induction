@@ -98,11 +98,9 @@ information gathered.
 
 <img src="images/generate-sample.png" alt="Generate samples" width="250"/>
 
-Note: There is a offset in this image because the annotations were not generated
-correctly.
 
 ### Parameters
-* show_img: Plot the objects (not implemented yet)
+* show: Plot the objects
 
 #### Outputs
 * 1 pickle file `./src/output/ilp/pickles/samples.p`, the List of Feature-Objects.
@@ -196,4 +194,4 @@ Fix: Deactivate MKL for conda.
 * https://keras.io/api/applications/
 
 
-For the full list of references, see the thesis. 
+For the full list of references, see the thesis.
