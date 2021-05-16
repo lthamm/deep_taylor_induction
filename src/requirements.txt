@@ -1,0 +1,11 @@
+tensorflow==1.12
+tqdm
+keras==2.2.4
+pandas
+sklearn
+matplotlib
+numpy
+imutils
+opencv-python
+innvestigate
+shapely
